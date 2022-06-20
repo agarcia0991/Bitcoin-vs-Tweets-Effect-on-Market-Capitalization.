@@ -19,4 +19,5 @@
 * Of the four ML methods used, SARIMA took the longest to run and appeared to provide the best predictive results when training the data before 2019,
 and testing the data after 2019. 
 
-* We found that results differed significantly when training the model to inspect marketcap data from 2017 and beyond, droping the front tail; SARIMA then predicted that the price would decrese. 
+* We found that results differed significantly* when training the model to inspect marketcap data from 2017 and beyond, droping the front tail. 
+*SARIMA then predicted that the price would decrese. 
