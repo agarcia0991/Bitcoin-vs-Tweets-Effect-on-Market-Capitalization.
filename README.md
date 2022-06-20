@@ -3,7 +3,7 @@
 
 ![alt text](https://github.com/agarcia0991/Project-4/blob/master/Resources/pexels-david-mcbee-730564.jpg?raw=true)
 
-The goal of this project was to show if there was any correlation between tweets on Twitter (having either hashtag of #BTC or #Bitcoin), and Bitcoin's marketcap. For the machine learning (ML) portion of our project, we've used Linear Regression and the following three models:
+The goal of this project was to show if there was any correlation between tweets/retweets on Twitter (having either hashtag of #BTC or #Bitcoin), and Bitcoin's marketcap. For the machine learning (ML) portion of our project, we've used Linear Regression and the following three machine learing models to predict a future increase or decrease in Bitcoin's marketcap:
 * ARMA - Autoregressive Moving Average
 * ARIMA - Autoregressive Integrated Moving Average
 * SARIMA - Seasonal Autoregressive Integrated Moving Average
