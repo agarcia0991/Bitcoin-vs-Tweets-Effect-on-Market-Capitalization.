@@ -8,7 +8,7 @@ The goal of this project was to show if there was any correlation between tweets
 * ARIMA - Autoregressive Integrated Moving Average
 * SARIMA - Seasonal Autoregressive Integrated Moving Average
 
-* Bitcoin (BTC) Marketcap data, from 2013 to 2021.
+Bitcoin (BTC) Marketcap data, from 2013 to 2021:
 ![alt text](https://github.com/agarcia0991/Project-4/blob/master/Images/all_data.PNG?raw=true)
 
 # Machine Learning 
