@@ -21,8 +21,8 @@ Bitcoin (BTC) Marketcap data, from 2013 to 2021:
 * Graph of SARIMA model's predicion:
 ![alt text](https://github.com/agarcia0991/Project-4/blob/master/Images/SARIMA.PNG?raw=true)
 
-* Of the four ML methods used, SARIMA took the longest to run and appeared to predict an increase in BTC price after 2021. The model was trained on marketcap data before 2019,
-and tested the data after 2019. 
+* Of the four ML methods used, SARIMA took the longest to run and appeared to predict an increase in BTC price after 2021. The model was **trained** on marketcap data before 2019,
+and **tested** the data after 2019. 
 
 * We found that results differed significantly when training the model to inspect marketcap data from 2017 and beyond, droping the front tail. 
 SARIMA then predicted that the price would decrese past 2021. 
