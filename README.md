@@ -10,7 +10,7 @@ The goal of this project was to show if there was any correlation between tweets
 Bitcoin (BTC) Marketcap data, from 2013 to 2021:
 ![alt text](https://github.com/agarcia0991/Project-4/blob/master/Images/all_data.PNG?raw=true)
 
-# Machine Learning 
+## Machine Learning 
 
 * Graph of ARMA with prediction:
 ![alt text](https://github.com/agarcia0991/Project-4/blob/master/Images/Predictions.PNG?raw=true)
