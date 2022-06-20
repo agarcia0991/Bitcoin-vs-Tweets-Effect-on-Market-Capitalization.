@@ -13,6 +13,5 @@
 * SARIMA - Seasonal Autoregressive Integrated Moving Average
 ![alt text](https://github.com/agarcia0991/Project-4/blob/master/Images/SARIMA.PNG?raw=true)
 
-* Of the four ML methods used, SARIMA took the longest to run and appeared to provide the best predictive results. 
-
-<!-- ![alt text](https://github.com/agarcia0991/Project-4/blob/master/Resources/pexels-david-mcbee-730564.jpg?raw=true) -->
+* Of the four ML methods used, SARIMA took the longest to run and appeared to provide the best predictive results when training the data before 2019,
+and testing the data after 2019. 
