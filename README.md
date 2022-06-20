@@ -23,4 +23,4 @@ Bitcoin (BTC) Marketcap data, from 2013 to 2021:
 and **tested** with marketcap data after 2019. 
 
 * We found that results differed significantly when training the model to inspect marketcap data from 2017 and beyond, droping the front tail. 
-SARIMA then predicted that the price would decrese past 2021. 
+SARIMA then predicted that the price would decrease beyond 2021. 
