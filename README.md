@@ -25,4 +25,4 @@ Bitcoin (BTC) Marketcap data, from 2013 to 2021:
 
 * We found that results differed significantly when training the ML models to inspect marketcap data from 2017 and beyond, droping the front tail. 
 With the training dates being less, and testing dates remainging the same, SARIMA then predicted that the price would decrease beyond 2021. 
-* Our Twitter dataset was limited, in that it only contained tweet information from the year 2021. Therefore, we were not able to find a correlation between tweets (overall buzz on Twitter), and Bitcoin's marketcap or price. A larger dataset, containing tweets from more than one year may provide better results. 
+* Our Twitter dataset was limited, in that it only contained tweet information from the year 2021. Therefore, we were not able to find a correlation between tweets (overall buzz on Twitter), and Bitcoin's marketcap or price. A larger dataset, containing tweets from more than one year, may provide better results. 
