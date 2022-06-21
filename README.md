@@ -2,13 +2,15 @@
 
 ![alt text](https://github.com/agarcia0991/Project-4/blob/master/Resources/pexels-david-mcbee-730564.jpg?raw=true)
 
-The goal of this project was to show if there was any correlation between tweets/retweets on Twitter (having either hashtag of #BTC or #Bitcoin), and Bitcoin's market capitalization (marketcap). For the machine learning (ML) portion of our project, we've used Linear Regression and the following three machine learing models to attempt to predict a future increase or decrease in Bitcoin's marketcap. Marketcap dataset contained prices begining March 2013, and ending sometime in June of 2021. 
+The goal of this project was to show if there was any correlation between activity on Twitter (total tweets/likes, and retweets having either hashtag of #BTC or #Bitcoin), and Bitcoin's market capitalization (marketcap). For the machine learning (ML) portion of our project, we've used Linear Regression and the following three machine learing models to attempt to predict a future increase or decrease in Bitcoin's marketcap. Marketcap dataset contained prices begining April 2013, and ending sometime in July of 2021. 
 
 
 Bitcoin (BTC) Marketcap data, from 2013 to 2021:
 ![alt text](https://github.com/agarcia0991/Project-4/blob/master/Images/all_data.PNG?raw=true)
 
 ## Machine Learning 
+* Machine learning models were first trained on all marketcap data before 2019; data was then tested with marketcap data after 2019. 
+![alt text](https://github.com/agarcia0991/Project-4/blob/master/Images/splittingData_Training_Testing.PNG?raw=true)
 
 * Graph of autoregressing moving average (**ARMA**) model, with prediction:
 ![alt text](https://github.com/agarcia0991/Project-4/blob/master/Images/Predictions.PNG?raw=true)
