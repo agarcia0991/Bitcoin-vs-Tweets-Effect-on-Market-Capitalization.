@@ -23,6 +23,8 @@ Bitcoin (BTC) Market cap data, from 2013 to 2021:
 
 * Of the four ML methods used, SARIMA took the longest to run and appeared to predict an increase in BTC price after 2021. 
 
+## Conclusions
+
 * We found that results differed significantly when training the ML models to inspect market cap data from 2017 and beyond, droping the front tail. 
 With the training dates being less, and testing dates remainging the same, SARIMA then predicted that the price would decrease beyond 2021. 
 * Our Twitter dataset was limited, in that it only contained tweet information from the year 2021. Therefore, we were not able to find a correlation between tweets (overall BTC buzz on Twitter), and Bitcoin's market cap and/or price. A larger dataset, containing tweets from more than one year, may provide better results. 
