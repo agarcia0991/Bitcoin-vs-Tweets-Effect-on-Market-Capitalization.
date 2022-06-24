@@ -9,7 +9,7 @@ Bitcoin (BTC) Market cap data, from 2013 to 2021:
 ![alt text](https://github.com/agarcia0991/Project-4/blob/master/Images/all_data.PNG?raw=true)
 
 ## Machine Learning 
-* Machine learning models were first **trained** on all market cap data before 2019; data was then **tested** with market cap data after 2019. 
+* Machine learning models were first **trained** on all market cap data before 2021; data was then **tested** with market cap data after January, 2021. 
 ![alt text](https://github.com/agarcia0991/Project-4/blob/master/Images/splittingData_Training_Testing.PNG?raw=true)
 
 * Graph of autoregressing moving average (**ARMA**) model, with prediction:
